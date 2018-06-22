@@ -13,3 +13,10 @@ http://www.robots.ox.ac.uk/~vgg/software/via/
 
 As for the main problem of my previous nuclei segmentation, cells in HPC region are so close to each other and hard to separate by using the traditional CV methods. So I hope we can use this annotator to label the polygon/ellipsoid region to solve the cell clumps segmentation.
 To sum up, I am suggesting replacing our previous bbox labeling with polygon/ellipsoid region labeling.
+
+
+
+--> Deconvolution
+http://aisociety.kr/prml/PRMLSS_2015_deconvolution.pdf
+Animation: 
+https://github.com/vdumoulin/conv_arithmetic
